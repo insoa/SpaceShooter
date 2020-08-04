@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1f5edf0205c60fd42b56591f4f430aa5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _asteroidData: {fileID: 11400000, guid: d26c28871ebeacd47a8ff7a4e6e3598a, type: 2}
+  - _bulletData: {fileID: 11400000, guid: 82b99255a3cdff44290ed48a3b15c352, type: 2}
+  - _rb: {instanceID: 0}
+  - _explosion: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

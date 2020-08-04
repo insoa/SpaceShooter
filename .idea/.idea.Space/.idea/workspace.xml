@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1c615c81-9288-452b-84de-79748f9a5fde" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/AsteroidData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AsteroidController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/UiControll.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/SpaceshipData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LevelManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AsteroidMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LevelManager/RestartLevel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/BulletData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Cleaning.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/ShipData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SpaceshipData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NewBehaviourScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/Spawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/SpaceshipData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/MoveComands.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/BulletData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shooting.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BulletMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Trigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MoveComands.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Сleaning.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AsteroidMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LevelManager.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fUrfg80Bu0cougQaarUzIeIUdD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c615c81-9288-452b-84de-79748f9a5fde" name="Default Changelist" comment="" />
+      <created>1596283617213</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596283617213</updated>
+      <workItem from="1596283621666" duration="480000" />
+      <workItem from="1596284145319" duration="792000" />
+      <workItem from="1596284957290" duration="498000" />
+      <workItem from="1596286412278" duration="13000" />
+      <workItem from="1596286511990" duration="4031000" />
+      <workItem from="1596291845839" duration="969000" />
+      <workItem from="1596292888998" duration="7823000" />
+      <workItem from="1596358160421" duration="8914000" />
+      <workItem from="1596368065260" duration="337000" />
+      <workItem from="1596465922596" duration="1989000" />
+      <workItem from="1596470228130" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
